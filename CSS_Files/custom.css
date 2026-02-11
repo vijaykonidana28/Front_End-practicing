@@ -1,0 +1,39 @@
+* {
+    background-color: bisque;
+    text-align: justify;
+    text-decoration-color: olivedrab;
+    padding: 40px;
+    border-style: double;
+    border-color: peru;
+    border-width: 10px;
+}
+
+article {
+    border-style:ridge;
+    border-color: darkorange;
+    background-color: aquamarine;
+    padding: auto;
+    border-width: 20px;
+}
+p{
+    text-align: justify;
+    text-decoration: darksalmon;
+}
+h1{
+    text-align: center;
+    text-decoration-thickness: initial;
+    border-width: 5px;
+}
+h2{
+    text-align: initial;
+    text-decoration: solid;
+    border-width: 5px;
+}
+em{
+    text-overflow:initial;
+    border-width: 4px;
+}
+i{
+    text-shadow: chartreuse;
+    background-color: coral;
+}

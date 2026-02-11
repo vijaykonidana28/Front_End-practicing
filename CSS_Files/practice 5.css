@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0px;
+}
+nav{
+    display: flex;
+    min-width: 400px;
+    width: 100vw;
+    background-color: lightgoldenrodyellow;
+    color:darkgreen;
+    padding: 10px 0px ;
+}
+ul{
+    display: flex;
+    list-style: none;
+    padding: 10px;
+    gap: 10px;
+}
+li{
+    margin-left: 10px;
+    cursor: pointer;
+}
+a:link{
+    text-decoration: none;
+    color:darkgreen;
+}
+a:visited{
+    color: darkgreen;
+}
+a:hover{
+    font-size: 1.2rem;
+    color: rgb(3, 41, 5);
+}
+.img-top{
+    position: fixed;
+    width: 50px;
+    bottom: 0px;
+    right: 0px;
+}

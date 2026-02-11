@@ -1,0 +1,42 @@
+.box {
+    height: 500px;
+    width: 500px;
+    background-color: darkgreen;
+}
+
+.br {
+    border: solid 5px;
+}
+
+.orange {
+    position: relative;
+    top: 260px;
+    right: -440px;
+    height: 50px;
+    width: 50px;
+    background-color: orange;
+}
+
+.red {
+    position: relative;
+    height: 50px;
+    width: 50px;
+    background-color: red;
+}
+
+.blue {
+    position: relative;
+    top: 320px;
+    height: 50px;
+    width: 50px;
+    background-color: darkblue;
+}
+
+.purple {
+    position: relative;
+    top: -60px;
+    right: -440px;
+    height: 50px;
+    width: 50px;
+    background-color: purple;
+}
